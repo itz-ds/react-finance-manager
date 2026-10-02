@@ -87,13 +87,19 @@ http://localhost:3000
 
 ### Transaction Form
 
+#### Add Transaction Form
+
 ![Add Transaction Form](image-1.png)
+
+#### Update Transaction Form
 
 ![Update Transaction Form](image-2.png)
 
 ### Expense Breakdown
 
 ![Expense Breakdown](image-3.png)
+
+### Filter Transactions
 
 ![Filter Transactions](image-4.png)
 

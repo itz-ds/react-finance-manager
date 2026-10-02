@@ -126,12 +126,6 @@ function App() {
           />
         </div>
       </div>
-      {/* <div className="mb-3">
-        <ModalForm
-          modal={modal}
-          setModal={setModal}
-        />
-      </div> */}
       <div className="mb-3"> 
         <TransactionForm 
           onAddTransaction={addTransaction}

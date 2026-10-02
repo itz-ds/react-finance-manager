@@ -1,7 +1,7 @@
 function Navbar() {
   return (
-    <nav>
-      <h1>Financer</h1>
+    <nav className="navbar py-3">
+      <h1 className="">Financer</h1>
     </nav>
   )
 }
